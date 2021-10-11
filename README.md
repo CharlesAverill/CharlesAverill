@@ -16,6 +16,7 @@ My research! I've been researching at various laboratories and about various top
 ## How to reach me
 
 Discord - @caverill_#4330
+
 LinkedIn - https://linkedin.com/in/charles-averill
 
 <!--
