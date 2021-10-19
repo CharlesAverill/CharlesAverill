@@ -21,7 +21,7 @@ LinkedIn - https://linkedin.com/in/charles-averill
 
 ---
 
-[![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesAverill)](https://github.com/anuraghazra/github-readme-stats)
+[![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesAverill&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **CharlesAverill/CharlesAverill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
