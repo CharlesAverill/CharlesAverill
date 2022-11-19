@@ -5,9 +5,15 @@ Check my profile pins for some of my favorite projects, or you can go to [my hom
 
 ## What I'm currently working on
 
+As of November 2022, I have just finished working on [Prettybird](https://github.com/CharlesAverill/prettybird), a functional programming language for font generation. I submitted a paper for this project to PLDI 2023 and am waiting to hear back.
+
+I am preparing to teach a course in practical compiler design next semester to a tentative 50 students, the code and lectures for this course will be public soon.
+
+<!--
 As of Summer 2022, I am working on [Ocarina of Time: Legendary Edition](https://github.com/CharlesAverill/oot_le), a decompilation hack of OOT intended to add story elements (and whatever else I want) from the OOT manga. It's been tons of fun, and the decomp is still in the early documentation phase, so it's like trekking through a jungle most of the time. 
 
 I'm also planning on revisiting [Purple](https://github.com/CharlesAverill/Purple), I have a few ideas of how to go about it and I'm excited to revisit.
+-->
 
 <!--
 As of April 2022, I am in between a few projects. [YARR](https://github.com/CharlesAverill/yarr) is now a fully-functional (and mostly realtime) raytracing renderer written in CUDA C/C++. This project was incredibly fun, I strongly recommend a rendering project to anyone. I'm studying relativity with the intent to add relativistic rendering to the project, with the end goal of drawing some black holes.
