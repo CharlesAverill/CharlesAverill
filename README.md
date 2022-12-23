@@ -9,27 +9,34 @@ As of November 2022, I have just finished working on [Prettybird](https://github
 
 I am preparing to teach a course in practical compiler design next semester to a tentative 50 students, the code and lectures for this course will be public soon.
 
-<!--
-As of Summer 2022, I am working on [Ocarina of Time: Legendary Edition](https://github.com/CharlesAverill/oot_le), a decompilation hack of OOT intended to add story elements (and whatever else I want) from the OOT manga. It's been tons of fun, and the decomp is still in the early documentation phase, so it's like trekking through a jungle most of the time. 
+<details>
+  <summary>Summer 2022</summary>
+  
+  > As of Summer 2022, I am working on [Ocarina of Time: Legendary Edition](https://github.com/CharlesAverill/oot_le), a decompilation hack of OOT intended to add story elements (and whatever else I want) from the OOT manga. It's been tons of fun, and the decomp is still in the early documentation phase, so it's like trekking through a jungle most of the time. <br><br> I'm also planning on revisiting [Purple](https://github.com/CharlesAverill/Purple), I have a few ideas of how to go about it and I'm excited to revisit.
 
-I'm also planning on revisiting [Purple](https://github.com/CharlesAverill/Purple), I have a few ideas of how to go about it and I'm excited to revisit.
--->
+</details>
 
-<!--
-As of April 2022, I am in between a few projects. [YARR](https://github.com/CharlesAverill/yarr) is now a fully-functional (and mostly realtime) raytracing renderer written in CUDA C/C++. This project was incredibly fun, I strongly recommend a rendering project to anyone. I'm studying relativity with the intent to add relativistic rendering to the project, with the end goal of drawing some black holes.
+<details>
+  <summary>April 2022</summary>
+  
+  > As of April 2022, I am in between a few projects. [YARR](https://github.com/CharlesAverill/yarr) is now a fully-functional (and mostly realtime) raytracing renderer written in CUDA C/C++. This project was incredibly fun, I strongly recommend a rendering project to anyone. I'm studying relativity with the intent to add relativistic rendering to the project, with the end goal of drawing some black holes. <br><br> I'm also working on a 3D remake of [atc](https://github.com/vattam/BSDGames/tree/master/atc), a very addicting terminal game I've been playing instead of paying attention in class.
 
-I'm also working on a 3D remake of [atc](https://github.com/vattam/BSDGames/tree/master/atc), a very addicting terminal game I've been playing instead of paying attention in class.
--->
+ </details>
 
-<!--
-As of October 2021, I am currently working on [Purple](https://github.com/CharlesAverill/Purple), a simple compiled language! I'm learning a lot more about assembly and compiler design, and it's a lot of fun designing your own programming language!
--->
+<details>
+  <summary>October 2021</summary>
+  
+  > As of October 2021, I am currently working on [Purple](https://github.com/CharlesAverill/Purple), a simple compiled language! I'm learning a lot more about assembly and compiler design, and it's a lot of fun designing your own programming language!
+
+</details>
 
 ## Ask me about
 
 My research! I've been researching at various laboratories and about various topics since 2020, and I always enjoy talking about the projects I worked on. Here's the list of publications I've worked on (more to come) - 
-- “Connecting the Brains via Virtual Eyes : Eye-Gaze Directions and Inter-brain Synchrony in VR”
+- [“Connecting the Brains via Virtual Eyes : Eye-Gaze Directions and Inter-brain Synchrony in VR”](https://charles.systems/publications/CTBVVE_EGDaIBSVR.pdf)
   - Accepted to CHI 2021, Late Breaking Work
+- ["NFTree: Art Without Emissions"](https://charles.systems/publications/JIPP_2_4_Technology_in_Policy.pdf)
+  - Published in the Journal of Interdisciplanary Public Policy, Volume 2 Issue 4 (Fall 2021) issue
 
 ## How to reach me
 
