@@ -39,6 +39,9 @@ As of March 2023, I have just submitted an extended abstract of [Prettybird](htt
 ## Ask me about
 
 My research! I've been researching at various laboratories and about various topics since 2020, and I always enjoy talking about the projects I worked on. Here's the list of publications I've worked on (more to come) - 
+- ["Prettybird: A DSL for Programmatic Font Compilation"](https://www.charles.systems/writings/prettybird_pldi23_submission.pdf)
+  - Rejected from PLDI 2023 main track
+  - In review for PLDI 2023 Student Research Competition
 - [“Connecting the Brains via Virtual Eyes : Eye-Gaze Directions and Inter-brain Synchrony in VR”](https://charles.systems/publications/CTBVVE_EGDaIBSVR.pdf)
   - Accepted to CHI 2021, Late Breaking Work
 - ["NFTree: Art Without Emissions"](https://charles.systems/publications/JIPP_2_4_Technology_in_Policy.pdf)
