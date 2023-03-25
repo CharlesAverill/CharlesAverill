@@ -5,9 +5,15 @@ Check my profile pins for some of my favorite projects, or you can go to [my hom
 
 ## What I'm currently working on
 
-As of November 2022, I have just finished working on [Prettybird](https://github.com/CharlesAverill/prettybird), a functional programming language for font generation. I submitted a paper for this project to PLDI 2023 and am waiting to hear back.
+As of March 2023, I have just submitted an extended abstract of [Prettybird](https://github.com/CharlesAverill/prettybird) to the PLDI 2023 Student Research Competition. I began teaching my [Practical Compiler Design](https://www.charles.systems/PCD) course this semester, and it's going strong. I'll be presenting a talk on Formal Program Verification at the first Dallas Cyberfest soon.
 
-I am preparing to teach a course in practical compiler design next semester to a tentative 50 students, the code and lectures for this course will be public soon.
+<details>
+  <summary>November 2022</summary>
+  
+  > As of November 2022, I have just finished working on [Prettybird](https://github.com/CharlesAverill/prettybird), a functional programming language for font generation. I submitted a paper for this project to PLDI 2023 and am waiting to hear back.
+  > 
+  > I am preparing to teach a course in practical compiler design next semester to a tentative 50 students, the code and lectures for this course will be public soon.
+</details>
 
 <details>
   <summary>Summer 2022</summary>
@@ -40,7 +46,7 @@ My research! I've been researching at various laboratories and about various top
 
 ## How to reach me
 
-Discord - @caverill_#5593
+Discord - @caverill_#1729
 
 LinkedIn - https://linkedin.com/in/charles-averill
 
