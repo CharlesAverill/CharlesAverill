@@ -5,7 +5,13 @@ Check my profile pins for some of my favorite projects, or you can go to [my hom
 
 ## What I'm currently working on
 
-As of March 2023, I have just submitted an extended abstract of [Prettybird](https://github.com/CharlesAverill/prettybird) to the PLDI 2023 Student Research Competition. I began teaching my [Practical Compiler Design](https://www.charles.systems/PCD) course this semester, and it's going strong. I'll be presenting a talk on Formal Program Verification at the first Dallas Cyberfest soon.
+As of July 2023, I recently attended PLDI 2023 and presented my poster for [Prettybird](https://github.com/CharlesAverill/prettybird) at the [Student Research Competition](https://pldi23.sigplan.org/details/pldi-2023-src/9/Prettybird-A-DSL-for-Programmatic-Font-Compilation). I'm interning at NVIDIA on the Linux Graphics Testing team for the second time, and I'm researching with [Dr. Kevin Hamlen](https://personal.utdallas.edu/~hamlen/) on bottom-up verification of binary programs. I'm refining the curriculum for my [Practical Compiler Design course](https://www.charles.systems/PCD) for the Fall 23 semester, and I'm ramping up to apply for graduate school for the 2024-2025 school year.
+
+<details>
+  <summary>March 2023</summary>
+
+  > As of March 2023, I have just submitted an extended abstract of [Prettybird](https://github.com/CharlesAverill/prettybird) to the PLDI 2023 Student Research Competition. I began teaching my [Practical Compiler Design](https://www.charles.systems/PCD) course this semester, and it's going strong. I'll be presenting a talk on Formal Program Verification at the first Dallas Cyberfest soon.
+</details>
 
 <details>
   <summary>November 2022</summary>
@@ -40,8 +46,9 @@ As of March 2023, I have just submitted an extended abstract of [Prettybird](htt
 
 My research! I've been researching at various laboratories and about various topics since 2020, and I always enjoy talking about the projects I worked on. Here's the list of publications I've worked on (more to come) - 
 - ["Prettybird: A DSL for Programmatic Font Compilation"](https://www.charles.systems/writings/prettybird_pldi23_submission.pdf)
-  - Rejected from PLDI 2023 main track
-  - In review for PLDI 2023 Student Research Competition
+  - Accepted for PLDI 2023 Student Research Competition
+- ["Self-Supervised Unseen Object Instance Segmentation"](https://charlesaverill.github.io/publications/SSUOISLTRI.pdf)
+  - Accepted to RSS 2023
 - [“Connecting the Brains via Virtual Eyes : Eye-Gaze Directions and Inter-brain Synchrony in VR”](https://charles.systems/publications/CTBVVE_EGDaIBSVR.pdf)
   - Accepted to CHI 2021, Late Breaking Work
 - ["NFTree: Art Without Emissions"](https://charles.systems/publications/JIPP_2_4_Technology_in_Policy.pdf)
@@ -49,13 +56,13 @@ My research! I've been researching at various laboratories and about various top
 
 ## How to reach me
 
-Discord - @caverill_#1729
+Discord - @caverill_ ~~formerly @caverill_1729~~
 
 LinkedIn - https://linkedin.com/in/charles-averill
 
 ## Pronouns
 
-He/Him
+He/They
 
 ## Fun Fact
 
