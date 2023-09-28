@@ -12,6 +12,7 @@ As of September 2023, I recently attended IEEE Quantum Week 2023 on scholarship 
 
 <details>
   <summary>July 2023</summary>
+  
   > As of July 2023, I recently attended PLDI 2023 and presented my poster for [Prettybird](https://github.com/CharlesAverill/prettybird) at the [Student Research Competition](https://pldi23.sigplan.org/details/pldi-2023-src/9/Prettybird-A-DSL-for-Programmatic-Font-Compilation). I'm interning at NVIDIA on the Linux Graphics Testing team for the second time, and I'm researching with [Dr. Kevin Hamlen](https://personal.utdallas.edu/~hamlen/) on bottom-up verification of binary programs. I'm refining the curriculum for my [Practical Compiler Design course](https://seashell.charles.systems/teaching/PCD) for the Fall 23 semester, and I'm ramping up to apply for graduate school for the 2024-2025 school year.
 </details>
   
