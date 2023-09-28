@@ -1,16 +1,24 @@
 # Hi there!
 My name is Charles Averill, I'm currently a student at UTD studying Computer Science and Physics, on track for my Bachelor's and PhD in CS.
 
-Check my profile pins for some of my favorite projects, or you can go to [my homepage](https://charles.systems/) to see writeups of some of my projects. 
+Check my profile pins for some of my favorite projects, or you can go to [my homepage](https://seashell.charles.systems/) to see writeups of some of my projects. 
 
 ## What I'm currently working on
 
-As of July 2023, I recently attended PLDI 2023 and presented my poster for [Prettybird](https://github.com/CharlesAverill/prettybird) at the [Student Research Competition](https://pldi23.sigplan.org/details/pldi-2023-src/9/Prettybird-A-DSL-for-Programmatic-Font-Compilation). I'm interning at NVIDIA on the Linux Graphics Testing team for the second time, and I'm researching with [Dr. Kevin Hamlen](https://personal.utdallas.edu/~hamlen/) on bottom-up verification of binary programs. I'm refining the curriculum for my [Practical Compiler Design course](https://www.charles.systems/PCD) for the Fall 23 semester, and I'm ramping up to apply for graduate school for the 2024-2025 school year.
+As of September 2023, I recently attended IEEE Quantum Week 2023 on scholarship from the NSF. I'm currently applying for graduate CS programs at schools like CMU, UPenn, UW, and Oxford. I'm continuing my research with [Dr. Kevin Hamlen](https://personal.utdallas.edu/~hamlen/) on bottom-up verification of binary programs. I'm working on [NAME](https://github.com/utdscheld/name), a language-agnostic, modular assembly language emulation pipeline as my senior capstone project, I'm teaching the second iteration of my [Introduction to Compiler Design course](https://seashell.charles.systems/teaching/ICD), and I [started playing Go](https://online-go.com/user/view/1392760). Send me a challenge!
 
+<details>
+  <summary>Previous</summary>
+
+<details>
+  <summary>July 2023</summary>
+  > As of July 2023, I recently attended PLDI 2023 and presented my poster for [Prettybird](https://github.com/CharlesAverill/prettybird) at the [Student Research Competition](https://pldi23.sigplan.org/details/pldi-2023-src/9/Prettybird-A-DSL-for-Programmatic-Font-Compilation). I'm interning at NVIDIA on the Linux Graphics Testing team for the second time, and I'm researching with [Dr. Kevin Hamlen](https://personal.utdallas.edu/~hamlen/) on bottom-up verification of binary programs. I'm refining the curriculum for my [Practical Compiler Design course](https://seashell.charles.systems/teaching/PCD) for the Fall 23 semester, and I'm ramping up to apply for graduate school for the 2024-2025 school year.
+</details>
+  
 <details>
   <summary>March 2023</summary>
 
-  > As of March 2023, I have just submitted an extended abstract of [Prettybird](https://github.com/CharlesAverill/prettybird) to the PLDI 2023 Student Research Competition. I began teaching my [Practical Compiler Design](https://www.charles.systems/PCD) course this semester, and it's going strong. I'll be presenting a talk on Formal Program Verification at the first Dallas Cyberfest soon.
+  > As of March 2023, I have just submitted an extended abstract of [Prettybird](https://github.com/CharlesAverill/prettybird) to the PLDI 2023 Student Research Competition. I began teaching my [Practical Compiler Design](https://seashell.charles.systems/teaching/PCD) course this semester, and it's going strong. I'll be presenting a talk on Formal Program Verification at the first Dallas Cyberfest soon.
 </details>
 
 <details>
@@ -41,17 +49,18 @@ As of July 2023, I recently attended PLDI 2023 and presented my poster for [Pret
   > As of October 2021, I am currently working on [Purple](https://github.com/CharlesAverill/Purple), a simple compiled language! I'm learning a lot more about assembly and compiler design, and it's a lot of fun designing your own programming language!
 
 </details>
+</details>
 
 ## Ask me about
 
 My research! I've been researching at various laboratories and about various topics since 2020, and I always enjoy talking about the projects I worked on. Here's the list of publications I've worked on (more to come) - 
-- ["Prettybird: A DSL for Programmatic Font Compilation"](https://www.charles.systems/writings/prettybird_pldi23_submission.pdf)
+- ["Prettybird: A DSL for Programmatic Font Compilation"](https://seashell.charles.systems/writings/prettybird_pldi23_submission.pdf)
   - Accepted for PLDI 2023 Student Research Competition
-- ["Self-Supervised Unseen Object Instance Segmentation"](https://charlesaverill.github.io/publications/SSUOISLTRI.pdf)
+- ["Self-Supervised Unseen Object Instance Segmentation"](https://seashell.charles.systems/publications/SSUOISLTRI.pdf)
   - Accepted to RSS 2023
-- [“Connecting the Brains via Virtual Eyes : Eye-Gaze Directions and Inter-brain Synchrony in VR”](https://charles.systems/publications/CTBVVE_EGDaIBSVR.pdf)
+- [“Connecting the Brains via Virtual Eyes : Eye-Gaze Directions and Inter-brain Synchrony in VR”](https://seashell.charles.systems/publications/CTBVVE_EGDaIBSVR.pdf)
   - Accepted to CHI 2021, Late Breaking Work
-- ["NFTree: Art Without Emissions"](https://charles.systems/publications/JIPP_2_4_Technology_in_Policy.pdf)
+- ["NFTree: Art Without Emissions"](https://seashell.charles.systems/publications/JIPP_2_4_Technology_in_Policy.pdf)
   - Published in the Journal of Interdisciplanary Public Policy, Volume 2 Issue 4 (Fall 2021) issue
 
 ## How to reach me
