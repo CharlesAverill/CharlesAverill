@@ -1,4 +1,4 @@
-# Hi there!
+# Howdy!
 My name is Charles Averill, I'm currently a student at UTD studying Computer Science and Physics, on track for my Bachelor's and PhD in CS.
 
 Check my profile pins for some of my favorite projects, or you can go to [my homepage](https://seashell.charles.systems/) to see writeups of some of my projects. 
