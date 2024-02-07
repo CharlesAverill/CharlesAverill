@@ -5,10 +5,16 @@ Check my profile pins for some of my favorite projects, or you can go to [my hom
 
 ## What I'm currently working on
 
-As of September 2023, I recently attended IEEE Quantum Week 2023 on scholarship from the NSF. I'm currently applying for graduate CS programs at schools like CMU, UPenn, UW, and Oxford. I'm continuing my research with [Dr. Kevin Hamlen](https://personal.utdallas.edu/~hamlen/) on bottom-up verification of binary programs. I'm working on [NAME](https://github.com/utdscheld/name), a language-agnostic, modular assembly language emulation pipeline as my senior capstone project, I'm teaching the second iteration of my [Introduction to Compiler Design course](https://seashell.charles.systems/teaching/ICD), and I [started playing Go](https://online-go.com/user/view/1392760). Send me a challenge!
+As of February 2024, I recently graduated with my Bachelor's degree in Computer Science with a minor in Physics! I've also submitted my applications for Formal Verification Ph.D. programs at Carnegie Mellon University, Cornell University, The University of Pennsylvania, The University of Washington, MIT, and Oxford University, still waiting on results from each. For the past month I've worked on a few projects, most notably [VOLPIC](https://github.com/CharlesAverill/volpic.git), a formal verification platform for the Pascal programming language using Coq. I gave [this presentation](https://seashell.charles.systems/writings/volpic.pdf) at the Dallas Hackers Association on my progress. In addition to writing code, I've been preparing for my upcoming trip to the Mediterranean by continuing to study Greek (I'm on month 7) and catch up on Italian. I made [this page](https://seashell.charles.systems/travel/crutch) to keep track of phrases I'd like to remember. I've also started to play Chess again, [add me on Chess.com](https://friend.chess.com/Axt9x)!
 
 <details>
   <summary>Previous</summary>
+
+<details>
+  <summary>September 2023</summary>
+
+  > As of September 2023, I recently attended IEEE Quantum Week 2023 on scholarship from the NSF. I'm currently applying for graduate CS programs at schools like CMU, UPenn, UW, and Oxford. I'm continuing my research with [Dr. Kevin Hamlen](https://personal.utdallas.edu/~hamlen/) on bottom-up verification of binary programs. I'm working on [NAME](https://github.com/utdscheld/name), a language-agnostic, modular assembly language emulation pipeline as my senior capstone project, I'm teaching the second iteration of my [Introduction to Compiler Design course](https://seashell.charles.systems/teaching/ICD), and I [started playing Go](https://online-go.com/user/view/1392760). Send me a challenge!
+</details>
 
 <details>
   <summary>July 2023</summary>
