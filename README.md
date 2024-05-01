@@ -6,10 +6,16 @@ Check my profile pins for some of my favorite projects, or you can go to [my hom
 
 ## What I'm currently working on
 
-As of February 2024, I recently graduated with my Bachelor's degree in Computer Science with a minor in Physics! I've also submitted my applications for Formal Verification Ph.D. programs at Carnegie Mellon University, Cornell University, The University of Pennsylvania, The University of Washington, MIT, and Oxford University, still waiting on results from each. For the past month I've worked on a few projects, most notably [VOLPIC](https://github.com/CharlesAverill/volpic.git), a formal verification platform for the Pascal programming language using Coq. I gave [this presentation](https://seashell.charles.systems/writings/volpic.pdf) at the Dallas Hackers Association on my progress. In addition to writing code, I've been preparing for my upcoming trip to the Mediterranean by continuing to study Greek (I'm on month 7) and catch up on Italian. I made [this page](https://seashell.charles.systems/travel/crutch) to keep track of phrases I'd like to remember. I've also started to play Chess again, [add me on Chess.com](https://friend.chess.com/Axt9x)!
+As of May 2024, I recently accepted my offer of admission to the Computer Science Ph.D. program at the University of Texas at Dallas, where I will be studying under [Dr. Kevin Hamlen](https://personal.utdallas.edu/~hamlen/). I submitted [VOLPIC](https://github.com/CharlesAverill/volpic.git) to the PLDI 2024 Student Research Competition, which has just been accepted! This summer I will travel to Copenhagen to present the research. Since mid-February, I've been solo traveling through Italy, Croatia, and Greece. I've had a wonderful time exploring these countries, and I'm disappointed that my journey will be finished in only a few more weeks. Keep an eye out for the inevitible blog post I'll be writing about the trip. In my free time, I've been studying formal verification by [continuing to work through](https://github.com/CharlesAverill/Software-Foundations-Checklist) the [Software Foundations](https://softwarefoundations.cis.upenn.edu/) series, a project that I also recently joined as a contributor. I've also continued to tinker on a [decompilation hack of Pokemon FireRed](https://github.com/CharlesAverill/pokefirered.git) that I pick up every few years, a very relaxing pastime.
 
 <details>
   <summary>Previous</summary>
+
+<details>
+  <summary>February 2024</summary>
+  
+  > As of February 2024, I recently graduated with my Bachelor's degree in Computer Science with a minor in Physics! I've also submitted my applications for Formal Verification Ph.D. programs at Carnegie Mellon University, Cornell University, The University of Pennsylvania, The University of Washington, MIT, and Oxford University, still waiting on results from each. For the past month I've worked on a few projects, most notably [VOLPIC](https://github.com/CharlesAverill/volpic.git), a formal verification platform for the Pascal programming language using Coq. I gave [this presentation](https://seashell.charles.systems/writings/volpic.pdf) at the Dallas Hackers Association on my progress. In addition to writing code, I've been preparing for my upcoming trip to the Mediterranean by continuing to study Greek (I'm on month 7) and catch up on Italian. I made [this page](https://seashell.charles.systems/travel/crutch) to keep track of phrases I'd like to remember. I've also started to play Chess again, [add me on Chess.com](https://friend.chess.com/Axt9x)!
+</details>
 
 <details>
   <summary>September 2023</summary>
@@ -62,6 +68,8 @@ As of February 2024, I recently graduated with my Bachelor's degree in Computer 
 ## Ask me about
 
 My research! I've been researching at various laboratories and about various topics since 2020, and I always enjoy talking about the projects I worked on. Here's the list of publications I've worked on (more to come) - 
+- ["VOLPIC: Verifying Lifted Pascal in Coq"](https://seashell.charles.systems/publications/VOLPIC_SRC.pdf)
+  - Accepted for PLDI 2024 Student Research Competition
 - ["Prettybird: A DSL for Programmatic Font Compilation"](https://seashell.charles.systems/writings/prettybird_pldi23_submission.pdf)
   - Accepted for PLDI 2023 Student Research Competition
 - ["Self-Supervised Unseen Object Instance Segmentation"](https://seashell.charles.systems/publications/SSUOISLTRI.pdf)
