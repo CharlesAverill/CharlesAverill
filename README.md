@@ -1,8 +1,9 @@
 # Howdy!
-My name is Charles Averill, I'm currently waiting to hear back from graduate Formal Verification programs. I graduated from the Unviersity of Texas at Dallas with a degree in Computer Science and Physics.
+My name is Charles Averill, I'm a Computer Science PhD student at the University of Texas at Dallas. 
+I graduated from UTD with a Bachelor's degree in Computer Science and a minor in Physics.
 <!-- a student at UTD studying Computer Science and Physics, on track for my Bachelor's and PhD in CS. -->
 
-Check my profile pins for some of my favorite projects, or you can go to [my homepage](https://seashell.charles.systems/) to see writeups of some of my projects. 
+Check my profile pins for some of my favorite projects, or you can go to [my homepage](https://seashell.charles.systems/) to see a bunch of other stuff. 
 
 ## What I'm currently working on
 
