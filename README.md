@@ -1,7 +1,9 @@
 # Howdy!
-My name is Charles Averill, I'm a Computer Science PhD student at the University of Texas at Dallas. 
+I'm Charles Averill, a Ph.D. student under <a href="https://personal.utdallas.edu/~hamlen/index.html" target="_blank">Kevin Hamlen</a> and <a href="https://faculty-directory.dartmouth.edu/christophe-hauser" target="_blank">Christophe Hauser</a> at UT Dallas.
+
+My name is Charles Averill, I'm a Computer Science PhD student at the University of Texas at Dallas under [Kevin Hamlen](https://personal.utdallas.edu/~hamlen/index.html) and [Christophe Hauser](https://faculty-directory.dartmouth.edu/christophe-hauser). 
 I graduated from UTD with a Bachelor's degree in Computer Science and a minor in Physics.
-<!-- a student at UTD studying Computer Science and Physics, on track for my Bachelor's and PhD in CS. -->
+Now I study formal verification, with interests in proof automation via stronger tactics, pure type theory, user-friendly verification, safe program transformations, formalized physics, invariant generation, etc.
 
 Check my profile pins for some of my favorite projects, or you can go to [my homepage](https://seashell.charles.systems/) to see a bunch of other stuff. 
 
