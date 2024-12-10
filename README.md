@@ -3,7 +3,12 @@ My name is Charles Averill, I'm a Computer Science PhD student at the University
 I graduated from UTD with a Bachelor's degree in Computer Science and a minor in Physics.
 Now I study formal verification, with interests in proof automation via stronger tactics, pure type theory, user-friendly verification, safe program transformations, formalized physics, invariant generation, etc.
 
-Check my profile pins for some of my favorite projects, or you can go to [my homepage](https://seashell.charles.systems/) to see a bunch of other stuff. 
+Check my profile pins for some of my favorite projects, or you can go to [my homepage](https://seashell.charles.systems/) to see a bunch of other stuff.
+
+[<img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/> https://orcid.org/0000-0001-6614-1808](https://orcid.org/0000-0001-6614-1808)
 
 ## What I'm currently working on
 
