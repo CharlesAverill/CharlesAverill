@@ -106,8 +106,8 @@ Check out [my music!](https://open.spotify.com/artist/2iq3tMDG0sMLoRAL1d0nKu?si=
 
 ---
 
-![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesAverill&theme=neon&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaverill&theme=neon&langs_count=10&hide=html,hlsl,css,asp.net,swift,shaderlab,asp,go,javascript,jupyter%20notebook,c%2B%2B,java&layout=donut)
+![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesAverill&rank_icon=github&theme=neon&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) 
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaverill&theme=neon&layout=donut&langs_count=10&hide=nasl,pascal,html,hlsl,css,asp.net,swift,shaderlab,asp,go,javascript,jupyter%20notebook,c%2B%2B,java,C&#35;) -->
 
 <!--
 **CharlesAverill/CharlesAverill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
