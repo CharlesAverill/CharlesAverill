@@ -85,15 +85,19 @@ As of August 2025, I have completed the first year of my Ph.D. in Computer Scien
 ## Ask me about
 
 My research! I've been researching at various laboratories and about various topics since 2020, and I always enjoy talking about the projects I worked on. Here's the list of publications I've worked on (more to come) - 
-- ["VOLPIC: Verifying Lifted Pascal in Coq"](https://seashell.charles.systems/publications/VOLPIC_SRC.pdf)
+- ["The Proof Must Go On: Formal Methods in the Theater of Secure Software Development of the Future"](https://www.charles.systems/publications/TheProofMustGoOn.pdf)
+  - Accepted for SPLASH Onward! Essays 2025
+- ["Formally-Verified, Tight Timing Constraints for Machine Code"](https://www.charles.systems/publications/PTM_SRC.pdf)
+  - Accepted for PLDI 2025 Student Research Competition, Gold Award Winner
+- ["VOLPIC: Verifying Lifted Pascal in Coq"](https://www.charles.systems/publications/VOLPIC_SRC.pdf)
   - Accepted for PLDI 2024 Student Research Competition
-- ["Prettybird: A DSL for Programmatic Font Compilation"](https://seashell.charles.systems/writings/prettybird_pldi23_submission.pdf)
+- ["Prettybird: A DSL for Programmatic Font Compilation"](https://www.charles.systems/writings/prettybird_pldi23_submission.pdf)
   - Accepted for PLDI 2023 Student Research Competition
-- ["Self-Supervised Unseen Object Instance Segmentation"](https://seashell.charles.systems/publications/SSUOISLTRI.pdf)
+- ["Self-Supervised Unseen Object Instance Segmentation"](https://www.charles.systems/publications/SSUOISLTRI.pdf)
   - Accepted to RSS 2023
-- [“Connecting the Brains via Virtual Eyes : Eye-Gaze Directions and Inter-brain Synchrony in VR”](https://seashell.charles.systems/publications/CTBVVE_EGDaIBSVR.pdf)
+- [“Connecting the Brains via Virtual Eyes : Eye-Gaze Directions and Inter-brain Synchrony in VR”](https://www.charles.systems/publications/CTBVVE_EGDaIBSVR.pdf)
   - Accepted to CHI 2021, Late Breaking Work
-- ["NFTree: Art Without Emissions"](https://seashell.charles.systems/publications/JIPP_2_4_Technology_in_Policy.pdf)
+- ["NFTree: Art Without Emissions"](https://www.charles.systems/publications/JIPP_2_4_Technology_in_Policy.pdf)
   - Published in the Journal of Interdisciplanary Public Policy, Volume 2 Issue 4 (Fall 2021) issue
 
 ## How to reach me
