@@ -1,7 +1,7 @@
 # Howdy!
 My name is Charles Averill, I'm a Computer Science PhD student at the University of Texas at Dallas under [Kevin Hamlen](https://personal.utdallas.edu/~hamlen/index.html) and [Christophe Hauser](https://faculty-directory.dartmouth.edu/christophe-hauser). 
 I graduated from UTD with a Bachelor's degree in Computer Science and a minor in Physics.
-Now I study formal verification, with interests in proof automation via stronger tactics, pure type theory, user-friendly verification, safe program transformations, formalized physics, invariant generation, etc.
+Now I study formal verification, with interests in proof automation, separation logic, and binary programs (among other things).
 
 Check my profile pins for some of my favorite projects, or you can go to [my homepage](https://seashell.charles.systems/) to see a bunch of other stuff.
 
@@ -12,10 +12,16 @@ Check my profile pins for some of my favorite projects, or you can go to [my hom
 
 ## What I'm currently working on
 
-As of December 2024, I have started my Ph.D. in Computer Science (focused in Formal Verification) at the University of Texas at Dallas, where I am coadvised by [Dr. Kevin Hamlen](https://personal.utdallas.edu/~hamlen/) and [Dr. Christophe Hauser](https://faculty-directory.dartmouth.edu/christophe-hauser) at Dartmouth College. This semester I've largely studied properties of *time*, specifically the timing properties of machine code at a formal level under my lab's framework for formal verification of machine code, Picinae. Additionally, I've taken an interest in concurrency and Separation Logic - read the short survey paper I wrote on [Formal Models of Concurrency](https://www.charles.systems/writings/bsfmc.pdf) for my Computer Networks course. With the large time commitment of starting a Ph.D. I've had little time to work on personal projects like I used to, but in the little free time I've had I've worked on some more of [Software Foundations](https://github.com/CharlesAverill/Software-Foundations-Checklist), some projects for my networking course featuring networking protocols in [OCaml](https://github.com/CharlesAverill/RDT_OCaml) and [Coq](https://github.com/CharlesAverill/proofchat), and an addition to my website that invites friends to [watch what I listen to on Spotify](https://github.com/CharlesAverill/radio.charles.systems).
+As of August 2025, I have completed the first year of my Ph.D. in Computer Science at the University of Texas at Dallas and Dartmouth College. This summer, my work on formal program timing was nearly completed, and we're preparing a publication for PLDI 2025. I was extremely lucky and happy to have [presented it](https://www.charles.systems/publications/PTM_SRC.pdf) at PLDI 2024's SRC, in which I [won the top prize](https://www.charles.systems/publications/src_gold_award.pdf) for the graduate division. I wrote a lot of fun code this year, like [a re-implementation of a board game port I wrote in C a few years ago](https://github.com/CharlesAverill/aftn.ml), [a WIP clone of SimEarth in OCaml using OpenGL](https://github.com/CharlesAverill/terrasim), [my first opam release](https://github.com/CharlesAverill/ppx_unreachable), [an analysis of metapatterns in poetry over the years for an NLP course](https://github.com/CharlesAverill/poetry_metapatterns), [another OCaml standard library](https://github.com/CharlesAverill/oasis), as well as a smattering of small formalizations in Rocq. I [revamped](https://github.com/CharlesAverill/charlesaverill.github.io/commit/a9ef1f7c78bdd010c203b0a9756639cd5eb450ab) my [website](https://www.charles.systems). Finally, a [prophetic essay](https://www.charles.systems/publications/TheProofMustGoOn.pdf) I wrote for SPLASH's Onward! Essays track was recently accepted and should be available on ACM DL later this month.
 
 <details>
   <summary>Previous</summary>
+
+<details>
+  <summary>December 2024</summary>
+        
+  > As of December 2024, I have started my Ph.D. in Computer Science (focused in Formal Verification) at the University of Texas at Dallas, where I am coadvised by [Dr. Kevin Hamlen](https://personal.utdallas.edu/~hamlen/) and [Dr. Christophe Hauser](https://faculty-directory.dartmouth.edu/christophe-hauser) at Dartmouth College. This semester I've largely studied properties of *time*, specifically the timing properties of machine code at a formal level under my lab's framework for formal verification of machine code, Picinae. Additionally, I've taken an interest in concurrency and Separation Logic - read the short survey paper I wrote on [Formal Models of Concurrency](https://www.charles.systems/writings/bsfmc.pdf) for my Computer Networks course. With the large time commitment of starting a Ph.D. I've had little time to work on personal projects like I used to, but in the little free time I've had I've worked on some more of [Software Foundations](https://github.com/CharlesAverill/Software-Foundations-Checklist), some projects for my networking course featuring networking protocols in [OCaml](https://github.com/CharlesAverill/RDT_OCaml) and [Coq](https://github.com/CharlesAverill/proofchat), and an addition to my website that invites friends to [watch what I listen to on Spotify](https://github.com/CharlesAverill/radio.charles.systems).
+</details>
 
 <details>
   <summary>May 2024</summary>
