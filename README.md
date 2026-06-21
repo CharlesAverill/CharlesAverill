@@ -91,11 +91,13 @@ As of May 2026, I am nearing the end of my second year as a Ph.D. student at UT 
 
 ## Ask me about
 
-My research! I've been researching at various laboratories and about various topics since 2020, and I always enjoy talking about the projects I worked on. Here's the list of publications I've worked on (more to come) - 
+My research! I've been researching at various laboratories and about various topics since 2020, and I always enjoy talking about the projects I worked on. Here's the list of publications I've worked on:
+- ["SCROP: A Return-Oriented Programming Language"](https://www.charles.systems/publications/SCROP.pdf)
+- ["LAPSE: Automatic, Formal Fault-Tolerant Correctness Proofs for Native Code"](https://www.charles.systems/publications/bar2026-camera-ready.pdf)
 - ["The Proof Must Go On: Formal Methods in the Theater of Secure Software Development of the Future"](https://www.charles.systems/publications/TheProofMustGoOn.pdf)
   - Accepted for SPLASH Onward! Essays 2025
 - ["Formally-Verified, Tight Timing Constraints for Machine Code"](https://www.charles.systems/publications/PTM_SRC.pdf)
-  - Accepted for PLDI 2025 Student Research Competition, Gold Award Winner
+  - ACM SRC Grand Finals winner, PLDI 2025 Student Research Competition, Gold Award Winner
 - ["VOLPIC: Verifying Lifted Pascal in Coq"](https://www.charles.systems/publications/VOLPIC_SRC.pdf)
   - Accepted for PLDI 2024 Student Research Competition
 - ["Prettybird: A DSL for Programmatic Font Compilation"](https://www.charles.systems/writings/prettybird_pldi23_submission.pdf)
