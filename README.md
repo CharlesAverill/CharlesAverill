@@ -93,7 +93,9 @@ As of May 2026, I am nearing the end of my second year as a Ph.D. student at UT 
 
 My research! I've been researching at various laboratories and about various topics since 2020, and I always enjoy talking about the projects I worked on. Here's the list of publications I've worked on:
 - ["SCROP: A Return-Oriented Programming Language"](https://www.charles.systems/publications/SCROP.pdf)
+  - Accepted for SIGBOVIK 2026
 - ["LAPSE: Automatic, Formal Fault-Tolerant Correctness Proofs for Native Code"](https://www.charles.systems/publications/bar2026-camera-ready.pdf)
+  - Accepted for NDSS BAR 2026
 - ["The Proof Must Go On: Formal Methods in the Theater of Secure Software Development of the Future"](https://www.charles.systems/publications/TheProofMustGoOn.pdf)
   - Accepted for SPLASH Onward! Essays 2025
 - ["Formally-Verified, Tight Timing Constraints for Machine Code"](https://www.charles.systems/publications/PTM_SRC.pdf)
